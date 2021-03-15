@@ -6,11 +6,13 @@ body {
 }
 
 h1 {
+  font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 900;
 }
 
 p {
+  font-family: "Roboto", sans-serif;
   font-weight: bolder;
 }
 
