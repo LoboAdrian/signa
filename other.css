@@ -16,6 +16,10 @@ p {
   font-weight: bolder;
 }
 
+.title {
+  margin-left: 10%;
+}
+
 .read-more {
   border: none;
   font-size: 18px;
