@@ -84,7 +84,14 @@ p {
 }
 
 .black-item {
-  width: 20rem;
+  width: 25%;
+  height: auto;
+}
+
+.text {
+  width: 50%;
+  margin: auto auto;
+  padding-top: 2%;
 }
 
 /********** FOOTER **********/
