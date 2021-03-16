@@ -127,7 +127,7 @@ p {
   cursor: pointer;
 }
 
-.social:link::after {
+.social::after {
   color: white;
   text-decoration: none;
 }
