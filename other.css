@@ -66,7 +66,7 @@ p {
 .black {
   margin-top: 5%;
   padding-top: 5%;
-  background-color: black;
+  background: linear-gradient(180deg, #000000 75%, #FFFFFF 25%);
 }
 
 .black-title {
@@ -77,15 +77,12 @@ p {
 .black-pics {
   display: flex;
   flex-direction: row;
-  --space-x-reverse: 0;
-  margin-right: calc(1.25rem * var(--space-x-reverse));
-  margin-left: calc(1.25rem * calc(1 - var(--space-x-reverse)));
   justify-content: center;
 }
 
 .black-item {
   width: 25%;
-  height: auto;
+  height: 25%;
 }
 
 .text {

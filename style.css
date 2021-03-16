@@ -58,16 +58,19 @@ p {
   padding-top: 3em;
 }
 
+/********** UTILITIES **********/
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /********** WHO WE ARE **********/
 
 .container {
-  display: flex;
-  margin: 0 auto;
-  padding-top: 5%;
+  padding-top: 5px;
 }
 
 .element {
-  flex: 0 0 45%;
   text-align: center;
 }
 
