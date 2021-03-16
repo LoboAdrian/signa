@@ -48,7 +48,7 @@ p {
   display: table;
 }
 
-/********** BODY **********/
+/********** BODY  UPPER **********/
 
 .container {
   display: flex;
@@ -59,6 +59,32 @@ p {
 .element {
   flex: 0 0 45%;
   text-align: left;
+}
+
+/********** GENERAL CONTRACTING **********/
+
+.black {
+  margin-top: 5%;
+  padding-top: 5%;
+  background-color: black;
+}
+
+.black-title {
+  color:white;
+  text-align: center;
+}
+
+.black-pics {
+  display: flex;
+  flex-direction: row;
+  --space-x-reverse: 0;
+  margin-right: calc(1.25rem * var(--space-x-reverse));
+  margin-left: calc(1.25rem * calc(1 - var(--space-x-reverse)));
+  justify-content: center;
+}
+
+.black-item {
+  width: 20rem;
 }
 
 /********** FOOTER **********/
