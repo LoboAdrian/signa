@@ -126,3 +126,8 @@ p {
   color: white;
   cursor: pointer;
 }
+
+.social:link::after {
+  color: white;
+  text-decoration: none;
+}
