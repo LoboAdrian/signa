@@ -48,6 +48,14 @@ p {
   display: table;
 }
 
+/********** UTILITIES **********/
+
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 /********** BODY  UPPER **********/
 
 .container {
