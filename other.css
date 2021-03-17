@@ -73,12 +73,14 @@ p {
 
 .black {
   margin-top: 5%;
+  margin-left: 12%;
+  margin-right: 12%;
   padding-top: 5%;
-  background: linear-gradient(180deg, #000000 75%, #FFFFFF 25%);
+  background: linear-gradient(180deg, #000000 75%, #ffffff 25%);
 }
 
 .black-title {
-  color:white;
+  color: white;
   text-align: center;
 }
 
