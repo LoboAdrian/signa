@@ -16,6 +16,11 @@ p {
   font-weight: normal;
 }
 
+h1,
+p {
+  color: #2e2e2e;
+}
+
 .read-more {
   border: none;
   font-family: "Roboto", sans-serif;
