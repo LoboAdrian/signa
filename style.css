@@ -30,7 +30,7 @@ p {
   padding: 4px 32px;
   text-decoration: none;
   color: white;
-  background-color: black;
+  background-color: #2e2e2e;
   transition-duration: 0.4s;
   cursor: pointer;
 }
@@ -107,7 +107,7 @@ p {
   padding-bottom: 1%;
   font-family: "Roboto", sans-serif;
   text-align: center;
-  background-color: black;
+  background-color: #2e2e2e;
   color: white;
   text-align: center;
 }
