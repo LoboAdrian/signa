@@ -108,6 +108,11 @@ p {
 
 .service {
   display: inline;
+  padding-right: 1em;
+}
+
+.service::before {
+  content: "\2022"; /* bullet */
 }
 
 /********** FOOTER **********/
