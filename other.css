@@ -106,6 +106,10 @@ p {
   padding-top: 2%;
 }
 
+.service {
+  display: inline;
+}
+
 /********** FOOTER **********/
 
 .footer {
